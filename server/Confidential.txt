@@ -1,0 +1,3 @@
+PulsePilot database user's credentials
+User = aralex1016
+Password = aslamsheikh1016
